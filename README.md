@@ -1,5 +1,5 @@
 
-# Web scrapping using python, beautiful soup and pandas
+# :zap: Web scrapping using python, beautiful soup and pandas
 
 This Python project makes use of web scraping techniques with Requests library and Beautiful Soup to extract movie details from The Movie Database (TMDb) and organizes the data using the Pandas library. The goal is to scrape information about movies from the TMDb website and transfer the data of first 50 pages into excel.
 
