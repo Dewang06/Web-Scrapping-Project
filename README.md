@@ -1,10 +1,10 @@
 
 # :zap: Web scrapping using python, beautiful soup and pandas
 
-:page_facing_up: **Summary**
+## :page_facing_up: Summary
 This Python project makes use of web scraping techniques with Requests library and Beautiful Soup to extract movie details from The Movie Database (TMDb) and organizes the data using the Pandas library. The goal is to scrape information about movies from the TMDb website and transfer the data of first 50 pages into excel.
 
-:computer: **Website**
+## :computer: Website
 https://www.themoviedb.org/movie
 
 
@@ -21,7 +21,7 @@ https://www.themoviedb.org/movie
 :newspaper: **Excel:** The data is exported to an Excel spreadsheet for easy analysis and sharing.
 
 
-## Project Workflow
+## :rocket: Project Workflow
 
 1. **Basic setup:**
    - First import the requests and Beautiful Soup libraries.
@@ -41,6 +41,6 @@ https://www.themoviedb.org/movie
    - Using the to_excel() of DataFrame export the data as an excel file.
 
 
-## Screenshots
+## :o: Screenshots
 
 ![Exported Data in Excel](https://github.com/Dewang06/Web-Scrapping-Project/blob/main/themoviedb_excel.JPG)
